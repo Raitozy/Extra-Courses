@@ -8,4 +8,3 @@ Macros personales: usar para todos los libros
 
 ## VBA
 Offset -> Desplazar desde la celda, offset (filas,columnas)
-prueba foto
