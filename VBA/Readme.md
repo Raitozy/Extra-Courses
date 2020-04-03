@@ -3,6 +3,8 @@ Video cool(Para recordar) https://www.youtube.com/watch?v=mylGWjX_NuQ&list=PL0aH
 
 Usar tablas dinamicas == Facil
 
+Join = INDEX MATCH https://www.ablebits.com/office-addins-blog/2014/08/13/excel-index-match-function-vlookup/
+
 Comentarios con '
 
 Usar siempre controles ActiveX
