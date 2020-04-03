@@ -1,7 +1,9 @@
 # Knowledge database for Macros/VBA
-Video cool(Para recordar) https://www.youtube.com/watch?v=mylGWjX_NuQ&list=PL0aHCODH_wFwocvAHJ2Q2D01YNc94NU7u
+Video cool(Para recordar/Muy Dummie) https://www.youtube.com/watch?v=mylGWjX_NuQ&list=PL0aHCODH_wFwocvAHJ2Q2D01YNc94NU7u
 
 Usar tablas dinamicas == Facil
+
+Vlookup o Index Match (Mejor index)
 
 Join = INDEX MATCH https://www.ablebits.com/office-addins-blog/2014/08/13/excel-index-match-function-vlookup/
 
