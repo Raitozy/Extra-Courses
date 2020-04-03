@@ -1,9 +1,11 @@
 # Knowledge database for Macros/VBA
 Video cool(Para recordar/Muy Dummie) https://www.youtube.com/watch?v=mylGWjX_NuQ&list=PL0aHCODH_wFwocvAHJ2Q2D01YNc94NU7u
 
+F4 Lock cells
+
 Usar tablas dinamicas == Facil
 
-Vlookup o Index Match (Mejor index)
+Vlookup o Index Match (Mejor index, en matriz es index match matchm VER EXCEL -> CONDICIONES)
 
 Join = INDEX MATCH https://www.ablebits.com/office-addins-blog/2014/08/13/excel-index-match-function-vlookup/
 
